@@ -97,10 +97,6 @@ Call number_of_movies_per_category(70);
 
 
 
-
-
-
-
    
    
 
